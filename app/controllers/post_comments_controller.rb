@@ -5,5 +5,7 @@ class PostCommentsController < ApplicationController
 
   def destroy
   end
+  
+  
 
 end
