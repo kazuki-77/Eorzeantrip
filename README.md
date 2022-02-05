@@ -40,5 +40,5 @@ https://docs.google.com/spreadsheets/d/1AJlE45TYlCQxwSfw-miRMhYGDwt80k7x8JlhNUjs
 ## 使用素材
 - https://jp.finalfantasyxiv.com/lodestone/special/fankit/icon/
 - 
-- 著作権は以下のサイトに則って使用しています。
+- 著作権は以下のサイトに則って使用しています。又、規約などを記載し著作権に当てはまらないよう制作します。
 - https://support.jp.square-enix.com/rule.php?id=5381&la=0&tag=authc
